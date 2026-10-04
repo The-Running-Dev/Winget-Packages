@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
 
-PackageIdentifier: SubZeroDev.HotCorners
+PackageIdentifier: SubZeroDev.HotCorners.Preview
 PackageVersion: 1.0.0-preview.1
 PackageLocale: en-US
 Publisher: SubZeroDev
 PublisherUrl: https://subzerodev.com
 PublisherSupportUrl: https://github.com/The-Running-Dev/SubZeroDev.HotCorners.Releases/issues
-PackageName: Hot Corners
+PackageName: Hot Corners (Preview)
 PackageUrl: https://github.com/The-Running-Dev/SubZeroDev.HotCorners.Releases
 License: Proprietary
 Copyright: Copyright (c) 2026 SubZeroDev. All rights reserved.
